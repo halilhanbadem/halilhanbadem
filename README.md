@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halilhanbadem" alt="halilhanbadem" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [halilhanbadem.dev](halilhanbadem.dev)
 
